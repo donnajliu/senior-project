@@ -1,0 +1,45 @@
+CAMERA
+RESO 640 480
+EYEP 0 0 5
+VDIR 0 0 -1
+UVEC 0 1 0
+FOVY 45
+
+LIGHT
+LPOS 2 1 0
+LCOL 1 1 1
+
+ROPE rope1
+DIM 3 6 3
+SCALE 1 2 1
+RGB 0.2 0.6 1
+
+layer
+0 0 0
+0 1 0 
+0 0 0
+
+layer
+0 0 0
+1 1 0 
+1 1 0
+
+layer
+0 0 0
+1 1 0 
+1 1 0
+
+layer
+0 0 0
+0 0 0 
+1 0 0
+
+layer
+0 0 0
+0 0 0 
+0 0 0
+
+layer
+0 0 0
+0 0 0 
+0 0 0

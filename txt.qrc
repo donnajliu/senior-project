@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>knots_txt_files/knot.txt</file>
+    </qresource>
+</RCC>
